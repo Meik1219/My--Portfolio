@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResumingPointMap Version="1.0" ClientVersion="2.0" LastUpdateTime="2014/03/26 02:03:05">
+	<ResumingPoint Fingerprint="00002200-0002-0001-EF0F-D6D84F3CCE9B" Resumable="true" TitleIndex="1" ChapterIndex="1"/>
+	<ResumingPoint Fingerprint="00010F01-0002-0019-1211-295672D6646F" Resumable="true" TitleIndex="22" ChapterIndex="24"/>
+	<ResumingPoint Fingerprint="000A3801-0002-000D-D303-702DC8D89D64" Resumable="true" TitleIndex="1" ChapterIndex="12"/>
+	<ResumingPoint Fingerprint="00120C00-0002-0001-DBDA-6317AFFC049D" Resumable="true" TitleIndex="18" ChapterIndex="64"/>
+	<ResumingPoint Fingerprint="00192B01-0002-0016-2587-B8E2BB6B42C2" Resumable="true" TitleIndex="38" ChapterIndex="11"/>
+	<ResumingPoint Fingerprint="002A2400-0002-0001-EB1F-6D7E9876A87F" Resumable="true" TitleIndex="1" ChapterIndex="1"/>
+</ResumingPointMap>
